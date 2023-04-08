@@ -1,11 +1,14 @@
 ### Hi there 👋
 :office: [LinkedIn](https://www.linkedin.com/in/shrustigasr/)
 - 🌱 I’m currently learning more about Data Science and Programming.
+- I am interested in:
 - :bar_chart: Data Analysis
-:chart_with_upwards_trend: Machine Learning
-:computer: Python
+- :bar_chart: Data Visualization
+- :computer: Python
 :file_folder: SQL
-:bar_chart: Data Visualization
+:chart_with_upwards_trend: Machine Learning
+
+
 
 <!--
 **ShrustigaSR/ShrustigaSR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
