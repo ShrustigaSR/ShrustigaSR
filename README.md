@@ -8,7 +8,10 @@
 :file_folder: SQL
 :chart_with_upwards_trend: Machine Learning
 
-
+Alice: :bar_chart: Data Analysis, :chart_with_upwards_trend: Machine Learning, :computer: Python, :file_folder: SQL
+Bob: :chart_with_upwards_trend: Machine Learning, :bar_chart: Data Visualization, :computer: Python, :file_folder: SQL
+Charlie: :file_folder: SQL, :bar_chart: Data Analysis, :computer: Python, :chart_with_upwards_trend: Machine Learning
+David: :computer: Python, :chart_with_upwards_trend: Machine Learning, :file_folder: SQL, :bar_chart: Data Visualization
 
 <!--
 **ShrustigaSR/ShrustigaSR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
