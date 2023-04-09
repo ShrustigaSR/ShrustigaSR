@@ -4,8 +4,8 @@
 - :bar_chart: Data Analysis
 - :bar_chart: Data Visualization
 - :computer: Python
-:file_folder: SQL
-:chart_with_upwards_trend: Machine Learning
+- :file_folder: SQL
+- :chart_with_upwards_trend: Machine Learning
 
 
 <!--
