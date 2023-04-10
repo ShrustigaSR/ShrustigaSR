@@ -1,5 +1,5 @@
 ### Hi there 👋
-:office: [LinkedIn](https://www.linkedin.com/in/shrustigasr/)
+
 - I am interested in:
 - :bar_chart: Data Analysis
 - :bar_chart: Data Visualization
